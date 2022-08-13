@@ -1,0 +1,7 @@
+{
+  "name": "FindProfWorker_SideMenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
